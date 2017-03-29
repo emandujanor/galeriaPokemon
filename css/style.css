@@ -1,0 +1,32 @@
+
+body{
+	background-image:url(../img/fdo.jpg);
+	background-repeat:no-repeat;
+	background-color:#000;
+	}
+.contenedor{
+	width:60%;
+	margin: 50px auto 0px auto;
+	background-color:#EAD8EB;
+	opacity:0.8;
+	padding:30px;
+	
+}
+.titulo{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#13B9C9;
+		
+}
+h2{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#939;
+	font-style:italic;
+}
+h3{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#676168;
+	font-style:italic;
+}
+.rep{
+	color:#96119F;
+}
